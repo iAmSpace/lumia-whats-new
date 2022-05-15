@@ -7,5 +7,6 @@ Updated to Snapshot 22w07a (Lumia, not MC)
 - Added 1.7/1.8 interchangeable tablist
 - Fixed account switcher security
 - Fixed account switcher showing signed in account
-- Fixed account switcher not displaying the username correctly
+- Fixed account switcher not displaying the username
+    correctly
 - Fixed account sign in window textbox alignment
