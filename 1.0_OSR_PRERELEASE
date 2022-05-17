@@ -1,0 +1,15 @@
+Updated to 1.0_OSR_PRERELEASE
+- Fixed account switcher crashing
+- Scrapped "Bedrock User Interface FW"
+- Added startup tasks
+- Added Zero Mods Cape System
+- Added Freelook
+- Added 1.7/1.8 interchangeable tablist
+- Fixed account switcher security
+- Fixed account switcher showing signed in account
+- Fixed account switcher not displaying the username
+    correctly
+- Fixed account sign in window textbox alignment
+- Fixed current account not saving correctly
+- Corrected German string in account switcher
+- TODO: Add translations (next update?)
