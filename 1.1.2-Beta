@@ -1,0 +1,13 @@
+Updated to Beta 1.1.2
+- Added cosmetics screen
+- Fixed "Lumia Settings" on main menu being
+    useless
+- Added Modules UI
+- TODO: Add customisation options
+
+Modules UI
+- TODO: Fix incorrect OpenGL Settings bug
+- TODO: Fix inabilkty to move modules
+- TODO: Add options to modules and the
+    modules screen
+- TODO: Add logo on modules screen
